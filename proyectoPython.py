@@ -291,5 +291,5 @@ def Blackjack():
         print(
             f"\n¡Empate! Ambos tenéis {puntos_jugador} puntos."
         )
-
+        
 mostrar_menu()
